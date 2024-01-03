@@ -1,0 +1,4 @@
+Please Add 2 new tags and 1 Sorting Layer of the Sprite Renderer.
+Tag 0 Tooth
+Tag 1 Effect_Collide
+Layer 1 Level_Brush
